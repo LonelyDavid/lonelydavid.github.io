@@ -2,15 +2,15 @@
 <span id="a">LonelyD@vid</span>:<span id="b">~</span><span id="c">$</span> cat <!-- Note -->LonelyDavid.txt<br><br>
 <span id="b">~</span><span id="c">$</span> My favorite code quote, "<span id="k">Code for Idea</span>". <!-- Note -->
 
-    ___            _     _                     
-   /   \__ ___   _(_) __| |   /\  /\__ _ _ __  
-  / /\ / _` \ \ / / |/ _` |  / /_/ / _` | '_ \ 
- / /_// (_| |\ V /| | (_| | / __  / (_| | | | |
-/___,' \__,_| \_/ |_|\__,_| \/ /_/ \__,_|_| |_|
+<p>    ___            _     _                     </p>
+<p>   /   \__ ___   _(_) __| |   /\  /\__ _ _ __  </p>  
+<p>  / /\ / _` \ \ / / |/ _` |  / /_/ / _` | '_ \ </p>
+<p> / /_// (_| |\ V /| | (_| | / __  / (_| | | | |</p>
+<p>/___,' \__,_| \_/ |_|\__,_| \/ /_/ \__,_|_| |_|</p>
                                                
                                                
 Hey There! This is the portflio website for LonelyDavid!<!-- Note --><p>This is where you can know Mr.LonelyDavid and his projects</p>
-<span id="b">~</span><span id="c">$</span>   <!-- Note --><br>
+<span id="b">~</span><span id="c">$</span> Who is LonelyDavid  <!-- Note --><br>
 <span id="b">~</span><span id="c">$</span> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.<!-- Note --><br>
 <span id="b">~</span><span id="c">$</span> Give your project links or something like that. <a href="link"> Here you go</a>.<!-- Note --><br>
 <span id="b">~</span><span id="c">$</span> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> <br> <a href="link3">Profile3</a>.
