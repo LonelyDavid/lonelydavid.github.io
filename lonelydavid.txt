@@ -3,9 +3,9 @@
 <span id="b">~</span><span id="c">$</span> My favorite code quote, "<span id="k">Code for Idea</span>". <!-- Note -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;___&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_                     
-&nbsp;&nbsp;&nbsp;/   \__ ___   _(_) __| |   /\  /\__ _ _ __  
-&nbsp;&nbsp;/ /\ / _` \ \ / / |/ _` |  / /_/ / _` | '_ \ 
-&nbsp;/ /_// (_| |\ V /| | (_| | / __  / (_| | | | |
+&nbsp;&nbsp;&nbsp;/   &nbsp;&nbsp;\__ ___   _(_) __| |   /\  /\__ _ _ __  
+&nbsp;&nbsp;/ /\ / _` \ \ / / |/ _` |  &nbsp;/ /_/ / _` | '_ \ 
+&nbsp;/ /_// (_| |\ V /| | (_| | / __  &nbsp;/ (_| | | | |
 /___,' \__,_| \_/ |_|\__,_| \/ /_/ \__,_|_| |_|
                                                
                                                
